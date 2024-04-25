@@ -1,17 +1,18 @@
 # ArinaMakarenko
 <div id="header" align='center'>
-<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/000000/parse-resume.png" alt="parse-resume"/> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lrcHlleGk1Y2xzZjIzbnN5bnY1NnRqamplMm0zanhzanM5aDA2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
+</div>
   <h1>Привет! Я - Арина Макаренко</h1>
-    <h3> начинающий QA-специалист из Белгорода</h3>
-      <a href="https://t.me/ri_ap">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-      </a>
+    <h3> начинающий QA-специалист из Белгорода</h3>  
 </div>
 
-### About me 
+### :woman_technologist: About Me :
 - :page_facing_up: Мое резюме на площадках [Habr Career](https://career.habr.com/), [HeadHunter](https://ufa.hh.ru/resume)  
 - :envelope: **ari.alekseewa2013@yandex.ru**
-
+<a href="https://t.me/ri_ap">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
+      </a>
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
