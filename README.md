@@ -8,7 +8,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- :page_facing_up: Мое резюме на площадках [Habr Career]([https://career.habr.com/](https://career.habr.com/arinaqa), [HeadHunter]([https://ufa.hh.ru/resume](https://belgorod.hh.ru/applicant/resumes/view?resume=d89bc0c3ff0d186fcb0039ed1f324c6e79326e))  
+- :page_facing_up: Мое резюме на площадках [Habr Career](https://career.habr.com/arinaqa), [HeadHunter](https://belgorod.hh.ru/applicant/resumes/view?resume=d89bc0c3ff0d186fcb0039ed1f324c6e79326e)
 - :envelope: **ari.alekseewa2013@yandex.ru**
 <a href="https://t.me/ri_ap">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
