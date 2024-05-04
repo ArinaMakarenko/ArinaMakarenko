@@ -38,7 +38,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" width="50" height="50"/>
-    
+   <img href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/885/629/png-transparent-miro-hd-logo-thumbnail.png" width="50" height="50" alt="Miro" />
+   <img href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="50" height="50" alt="Figma" />
+  <img href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="50" height="50" alt="Youtrack" />
 </div>
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
