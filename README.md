@@ -8,26 +8,36 @@
 </div>
 
 ### :woman_technologist: About Me :
+- :telescope: Посвящаю много времени учёбе.
+  Учусь в Яндекс.Практикум на инженера по автоматизированному тестированию, попутно изучаю различные бесплатные курсы и видеолекции;
+- :zap: На данный момент изучила блок ручного тестирования;
+- :seedling:  В свободное время люблю читать книги, смотреть фильмы, гулять по любимому городу;
+
+
 - :page_facing_up: Мое резюме на площадках [Habr Career](https://career.habr.com/arinaqa), [HeadHunter](https://belgorod.hh.ru/applicant/resumes/view?resume=d89bc0c3ff0d186fcb0039ed1f324c6e79326e)
 - :envelope: **ari.alekseewa2013@yandex.ru**
-<a href="https://t.me/ri_ap">
+- <a href="https://t.me/ri_ap">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
       </a>
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 ### Languages 
-<div id="header" align='left'>
+<div id="header" align='center'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
 </div>
 
-### Tools
-<div id="header" align='left'> 
+### :hammer_and_wrench:  Tools
+<div id="header" align='center'> 
     <img src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" alt="chromedevtools" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="50" height="50"/>
     <img src="https://github.com/DianaRazyapova/DianaRazyapova/assets/115238502/a908d9ed-b29f-49c1-9de8-77e89c360fb1" alt="charlesproxy " width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50" height="50"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" width="50" height="50"/>
     
 </div>
 
