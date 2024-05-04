@@ -1,7 +1,7 @@
 # ArinaMakarenko
 <div id="header" align='center'>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lrcHlleGk1Y2xzZjIzbnN5bnY1NnRqamplMm0zanhzanM5aDA2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3lrcHlleGk1Y2xzZjIzbnN5bnY1NnRqamplMm0zanhzanM5aDA2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="200"/>
 </div>
   <h1>Привет! Я - Арина Макаренко</h1>
     <h3> начинающий QA-специалист из Белгорода</h3>  
