@@ -5,6 +5,7 @@
 </div>
   <h1>Привет! Я - Арина Макаренко</h1>
     <h3> начинающий QA-специалист из Белгорода</h3>  
+  <h2>Моё портфолио здесь - https://github.com/ArinaMakarenko/portfolio-QA</h2>
 </div>
 
 ### :woman_technologist: About Me :
